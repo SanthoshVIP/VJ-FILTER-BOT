@@ -5,9 +5,11 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ...💸 
+ʜɪ ꜱᴛᴜᴅᴇɴᴛꜱ,
+Sᴛᴜᴅʏ sᴍᴀʀᴛᴇʀ, ɴᴏᴛ ʜᴀʀᴅᴇʀ! Aʟʟ-ɪɴ-ᴏɴᴇ ᴀᴘᴘ ғᴏʀ ɴᴏᴛᴇs, PDFs & ᴍᴏʀᴇ
+Aᴄᴇ ʏᴏᴜʀ ᴇxᴀᴍs ᴡɪᴛʜ ᴇᴀsᴇ 📚 Nᴏᴛᴇs, ᴛɪᴘs & sᴛᴜᴅʏ ʜᴀᴄᴋs Lᴇᴛ’s ᴄʀᴜsʜ ᴛʜᴀᴛ sʏʟʟᴀʙᴜs! 📖🔥 
 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>@Santhosh_neo</a> </b>"""
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>@Santhosh_neo✨</a> </b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
